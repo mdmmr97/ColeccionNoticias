@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(to right,#e48dd7 ,#6237c5);
+    font-family: 'Montserrat', sans-serif;
+    padding: 30px;
+}
+
+article {
+    float: left;
+    background-color: #f0d1eb;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    overflow: hidden;
+    box-sizing: content-box;
+    width: 300px;
+}
+
+time{
+    font-style: italic;
+    font-size: 12px;
+}
+
+h1 {
+    font-style: normal;
+    font-size: 23px;
+}
+
+img{
+    width: 100%;
+}
+
+.horizontal{
+    height: 150px;
+}
+
+.vertical{
+    height: 350px;
+}
+
